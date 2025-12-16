@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\feyza\\source\\repos\\E_Okul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|c:\\users\\feyza\\source\\repos\\e_okul\\e_okul\\frm_ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|solutionrelative:e_okul\\frm_ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|c:\\users\\feyza\\source\\repos\\e_okul\\e_okul\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|solutionrelative:e_okul\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|c:\\users\\feyza\\source\\repos\\e_okul\\e_okul\\frm_dersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|solutionrelative:e_okul\\frm_dersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|c:\\users\\feyza\\source\\repos\\e_okul\\e_okul\\frm_ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|solutionrelative:e_okul\\frm_ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|C:\\Users\\feyza\\source\\repos\\E_Okul\\e_okul\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{ED76F02A-F0DD-4222-85DC-C02111B79784}|E_Okul\\E_Okul.csproj|solutionrelative:e_okul\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_ogretmen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\frm_ogretmen.cs",
+              "RelativeDocumentMoniker": "E_Okul\\frm_ogretmen.cs",
+              "ToolTip": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\frm_ogretmen.cs [Design]",
+              "RelativeToolTip": "E_Okul\\frm_ogretmen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:56:23.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_dersler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\frm_dersler.cs",
+              "RelativeDocumentMoniker": "E_Okul\\frm_dersler.cs",
+              "ToolTip": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\frm_dersler.cs [Design]",
+              "RelativeToolTip": "E_Okul\\frm_dersler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:56:21.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\Form1.cs",
+              "RelativeDocumentMoniker": "E_Okul\\Form1.cs",
+              "ToolTip": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\Form1.cs [Design]",
+              "RelativeToolTip": "E_Okul\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:56:19.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_ogrenci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\frm_ogrenci.cs",
+              "RelativeDocumentMoniker": "E_Okul\\frm_ogrenci.cs",
+              "ToolTip": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\frm_ogrenci.cs [Design]",
+              "RelativeToolTip": "E_Okul\\frm_ogrenci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:52:15.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "E_Okul\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\feyza\\source\\repos\\E_Okul\\E_Okul\\DataSet1.xsd",
+              "RelativeToolTip": "E_Okul\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-11-27T07:41:39.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
